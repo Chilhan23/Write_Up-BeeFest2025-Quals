@@ -1,1 +1,1 @@
-# Write_Up-BeeFest2025-Quals
+Writeup i made for quals beectf in 2025
